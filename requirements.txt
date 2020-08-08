@@ -1,0 +1,4 @@
+Django==3.1
+pytz==2020.1  # carefull when upgrade this version, check if all_timezones not updated, else migrate data accordingly.
+djangorestframework==3.11.1
+Faker==4.1.1
